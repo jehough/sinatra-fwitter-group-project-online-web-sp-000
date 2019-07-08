@@ -6,13 +6,6 @@ h1 {background: url("./images/empty-sea-beach-background_74190-313.jpg");
     color: #fff;
     font-family: Impact;
     font-size: 3em;
-    -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text;
-    -moz-text-fill-color: transparent;
-    -moz-background-clip: text;
-    -ms-text-fill-color: transparent;
-    -ms-background-clip: text;
-    background-clip: text;
     padding: 0px;
     margin-bottom: -10px;
 }
